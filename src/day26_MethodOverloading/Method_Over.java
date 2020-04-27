@@ -2,6 +2,7 @@ package day26_MethodOverloading;
 
 public class Method_Over {
     public static void main(String[] args) {
+
         method(10);
     }
 

@@ -8,7 +8,6 @@ public class Library {
 
     public static int [] sortDescending(int[] arr){
         Arrays.sort(arr);
-
         int[] RevArr = new int[arr.length];
         int j= arr.length-1;
         for (int i =0; i<arr.length; i++){
@@ -30,7 +29,6 @@ public class Library {
     public static String RemoveDuplicate(String str) {
         //
         String result = "";
-
         for (int i = 0; i < str.length(); i++) {
             char ch = str.charAt(i);
             if (!result.contains(ch + "")) {
@@ -42,11 +40,9 @@ public class Library {
 
     public static int Frequency(String str1, String str2){
         int count =0;
-
         while (str1.contains(str2)){
             count++;
             str1 = str1.replaceFirst(str2, "");
-
         }
         return count;
 
@@ -63,4 +59,28 @@ public class Library {
         }
         return result;
     }
+
+    public static int Frequency(String str, char ch) {
+        char[] arr = str.toCharArray();
+        int count = 0;
+        for (char each : arr) {
+            if (each == ch) {
+                count++;
+            }
+        }
+        return count;
+    }
+
+
+    public static String uniques(String str) {
+        String result = "";
+        for (int i = 0; i < str.length(); i++) {
+            int num = Frequency(str, str.charAt(i));
+            if (num == 1) {
+                result += str.charAt(i);
+            }
+        }
+        return result;
+    }
+
 }

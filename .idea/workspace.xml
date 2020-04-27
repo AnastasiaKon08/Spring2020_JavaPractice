@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="" />
+    <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/WrapperClass_Practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Frequency_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Frequency_Arrays.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Method_Over.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Method_Over.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/Fobonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/Fobonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/MergeTwoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/MergeTwoString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Method_Over.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Method_Over.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Dates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Dates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Dates_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Dates_Formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Find_Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Find_Min.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Unique_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Unique_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/DateAndTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +33,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YiOilOWz1Wy0ops97ZqVJ6IxPx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -33,13 +59,13 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Zombie2">
-    <configuration name="Method_Over" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Method_Over" />
+  <component name="RunManager" selected="Application.List_Practice3">
+    <configuration name="List_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.List_Practice" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -47,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_Overload3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Method_Overload3" />
+    <configuration name="List_Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.List_Practice2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Method_Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Method_Overloading2" />
+    <configuration name="List_Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.List_Practice3" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uniques" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day26_MethodOverloading.Uniques" />
+    <configuration name="Value_Of_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.Value_Of_Methods" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day26_MethodOverloading.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Zombie2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractice.Zombie2" />
+    <configuration name="WrapperClass_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.WrapperClass_Practice" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractice.*" />
+          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Zombie2" />
-        <item itemvalue="Application.Method_Overload3" />
-        <item itemvalue="Application.Method_Overloading2" />
-        <item itemvalue="Application.Method_Over" />
-        <item itemvalue="Application.Uniques" />
+        <item itemvalue="Application.List_Practice3" />
+        <item itemvalue="Application.List_Practice2" />
+        <item itemvalue="Application.List_Practice" />
+        <item itemvalue="Application.WrapperClass_Practice" />
+        <item itemvalue="Application.Value_Of_Methods" />
       </list>
     </recent_temporary>
   </component>
@@ -147,54 +173,54 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state width="1628" height="354" key="GridCell.Tab.0.bottom" timestamp="1587518369882">
+    <state width="1628" height="354" key="GridCell.Tab.0.bottom" timestamp="1588017274420">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587518369882" />
+    <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274420" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="350" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1584736675210" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="354" key="GridCell.Tab.0.center" timestamp="1587518369881">
+    <state width="1628" height="354" key="GridCell.Tab.0.center" timestamp="1588017274419">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587518369881" />
+    <state width="1628" height="354" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274419" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="350" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1584736675209" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="354" key="GridCell.Tab.0.left" timestamp="1587518369880">
+    <state width="1628" height="354" key="GridCell.Tab.0.left" timestamp="1588017274418">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587518369880" />
+    <state width="1628" height="354" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274418" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="350" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1584736675209" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="354" key="GridCell.Tab.0.right" timestamp="1587518369881">
+    <state width="1628" height="354" key="GridCell.Tab.0.right" timestamp="1588017274419">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587518369881" />
+    <state width="1628" height="354" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274419" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="350" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1584736675210" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585158914028" />
-    <state width="1628" height="349" key="GridCell.Tab.1.bottom" timestamp="1587517911819">
+    <state width="1628" height="349" key="GridCell.Tab.1.bottom" timestamp="1588001805932">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1587517911819" />
-    <state width="1628" height="349" key="GridCell.Tab.1.center" timestamp="1587517911818">
+    <state width="1628" height="349" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805932" />
+    <state width="1628" height="349" key="GridCell.Tab.1.center" timestamp="1588001805931">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1587517911818" />
-    <state width="1628" height="349" key="GridCell.Tab.1.left" timestamp="1587517911817">
+    <state width="1628" height="349" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805931" />
+    <state width="1628" height="349" key="GridCell.Tab.1.left" timestamp="1588001805916">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1587517911817" />
-    <state width="1628" height="349" key="GridCell.Tab.1.right" timestamp="1587517911819">
+    <state width="1628" height="349" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805916" />
+    <state width="1628" height="349" key="GridCell.Tab.1.right" timestamp="1588001805931">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1587517911819" />
+    <state width="1628" height="349" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805931" />
     <state x="200" y="23" key="SettingsEditor" timestamp="1587410601410">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -206,14 +232,18 @@
     <state x="471" y="319" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586269818544" />
     <state x="471" y="310" key="com.intellij.ide.util.TipDialog/0.23.1680.944@0.23.1680.944" timestamp="1585163026334" />
     <state x="471" y="312" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1585230779693" />
+    <state x="70" y="63" key="new project wizard" timestamp="1587669675938">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="70" y="63" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1587669675938" />
     <state x="421" y="244" key="run.anything.popup" timestamp="1587406906507">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="421" y="244" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587406906507" />
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1586895614775">
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1587657391490">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1586895614775" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587657391490" />
     <state x="421" y="39" width="838" height="924" key="search.everywhere.popup/0.23.1680.940@0.23.1680.940" timestamp="1586441427296" />
   </component>
 </project>
