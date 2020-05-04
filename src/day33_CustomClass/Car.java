@@ -15,13 +15,23 @@ public class Car {
     public void drive(){
         System.out.println("Driving " + Brand+" "+ model);
     }
-    public void getCarInfo(){
-        System.out.println("Brand of the car is "+ Brand);  // instance variables are objects variables, can be called through the object name
-        System.out.println("Model is " + model);
-        System.out.println("The year is " + year);
-        System.out.println("The color is " + color);
+    public void getCarInfo() {
+        System.out.println("Brand of the car is " + Brand + " " + model + " " + year + " " + color);  // instance variables are objects variables, can be called through the object name
     }
 
+    public void setCarInfo(String carBrand, String carModel, int Caryear, String Carcolor){
+        Brand = carBrand;
+        model = carModel;
+        year = Caryear;
+        color = Carcolor;
+
+    }
+
+    public String toString (){
+        String result = year+ " " + Brand +" "+ model +" "+  color;
+
+        return result;
+    }
 
     public static void main(String[] args) {
         int a =100; // local variable
