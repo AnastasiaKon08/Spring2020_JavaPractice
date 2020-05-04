@@ -7,7 +7,7 @@ import java.util.Collections;
 public class Uniques {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<>(Arrays.asList(1,1,2,3,4,5,5));
-        list.removeIf(p -> Collections.frequency(list, p)>1 );
+        list.removeIf(p -> Collections.frequency(list, p)>1 ); // if the frequency of object>1, remove it
 
         System.out.println(list);
     }
