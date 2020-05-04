@@ -51,7 +51,7 @@ public class Lambda_Expressions {
         ArrayList<Integer> list3 = new ArrayList<>();
         list3.addAll(Arrays.asList(1, 2, 3, 4, 5, 6, 7,8 ,9 ,10));
         list3.removeIf(greaterThan5);
-        System.out.println(list3);
+        System.out.println(list3); // will return [1, 2, 3, 4, 5]
 
 
 
