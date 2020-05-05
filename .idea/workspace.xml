@@ -2,24 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/WrapperClass_Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice2/AddSpaces.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CarpetObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/Resources/Library.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Frequency_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Frequency_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Method_Over.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day26_MethodOverloading/Method_Over.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/Fobonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/Fobonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/MergeTwoString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/MergeTwoString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day26_MethodOverloading/Method_Over.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day26_MethodOverloading/Method_Over.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Dates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Dates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Dates_Formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Dates_Formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Find_Min.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Find_Min.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day27_DataTime/Unique_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day27_DataTime/Unique_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/DateAndTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/DateAndTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28_DateTime/Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28_DateTime/Time.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/MyPractice/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/MyPractice/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArraysList/List_Practice3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArraysList/List_Practice3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/FisBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/FisBus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/IndexFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/IndexFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/InterviewQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/InterviewQuestion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/PalindromePr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/PalindromePr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/RemoveEvenLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/RemoveEvenLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/SwitchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/SwitchString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyPractice/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Resources/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/Arrays_Methods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/Arrays_Methods2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +53,20 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.List_Practice3">
-    <configuration name="List_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.List_Practice" />
+  <component name="RunManager" selected="Application.DogObjects2">
+    <configuration name="AddSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice2.AddSpaces" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
+          <option name="PATTERN" value="MyPractice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.List_Practice2" />
+    <configuration name="CarpetObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.CarpetObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
+          <option name="PATTERN" value="day34_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +87,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="List_Practice3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.List_Practice3" />
+    <configuration name="DogObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
+          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DogObjects2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects2" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_CustomClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,25 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClass_Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.WrapperClass_Practice" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.List_Practice3" />
-        <item itemvalue="Application.List_Practice2" />
-        <item itemvalue="Application.List_Practice" />
-        <item itemvalue="Application.WrapperClass_Practice" />
+        <item itemvalue="Application.DogObjects2" />
+        <item itemvalue="Application.DogObjects" />
+        <item itemvalue="Application.CarpetObjects" />
+        <item itemvalue="Application.AddSpaces" />
         <item itemvalue="Application.Value_Of_Methods" />
       </list>
     </recent_temporary>
@@ -173,77 +174,87 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state width="1628" height="354" key="GridCell.Tab.0.bottom" timestamp="1588017274420">
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1588697876626">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274420" />
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876626" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
-    <state width="1628" height="350" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1584736675210" />
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="354" key="GridCell.Tab.0.center" timestamp="1588017274419">
+    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1588697876625">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274419" />
+    <state width="1628" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876625" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
-    <state width="1628" height="350" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1584736675209" />
+    <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="354" key="GridCell.Tab.0.left" timestamp="1588017274418">
+    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1588697876624">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274418" />
+    <state width="1628" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876624" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
-    <state width="1628" height="350" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1584736675209" />
+    <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="354" key="GridCell.Tab.0.right" timestamp="1588017274419">
+    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1588697876625">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="354" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588017274419" />
+    <state width="1628" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876625" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
-    <state width="1628" height="350" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1584736675210" />
+    <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585158914028" />
-    <state width="1628" height="349" key="GridCell.Tab.1.bottom" timestamp="1588001805932">
+    <state width="1628" height="297" key="GridCell.Tab.1.bottom" timestamp="1588646681149">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1628" height="349" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588101417406" />
+    <state width="1628" height="297" key="GridCell.Tab.1.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588646681149" />
+    <state width="1628" height="297" key="GridCell.Tab.1.center" timestamp="1588646681148">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1628" height="349" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588101417405" />
+    <state width="1628" height="297" key="GridCell.Tab.1.center/0.23.1680.944@0.23.1680.944" timestamp="1588646681148" />
+    <state width="1628" height="297" key="GridCell.Tab.1.left" timestamp="1588646681148">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1628" height="349" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588101417405" />
+    <state width="1628" height="297" key="GridCell.Tab.1.left/0.23.1680.944@0.23.1680.944" timestamp="1588646681148" />
+    <state width="1628" height="297" key="GridCell.Tab.1.right" timestamp="1588646681149">
+      <screen x="0" y="23" width="1680" height="944" />
+    </state>
+    <state width="1628" height="349" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588101417405" />
+    <state width="1628" height="297" key="GridCell.Tab.1.right/0.23.1680.944@0.23.1680.944" timestamp="1588646681149" />
+    <state x="200" y="23" key="SettingsEditor" timestamp="1588190411814">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805932" />
-    <state width="1628" height="349" key="GridCell.Tab.1.center" timestamp="1588001805931">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805931" />
-    <state width="1628" height="349" key="GridCell.Tab.1.left" timestamp="1588001805916">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805916" />
-    <state width="1628" height="349" key="GridCell.Tab.1.right" timestamp="1588001805931">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1628" height="349" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588001805931" />
-    <state x="200" y="23" key="SettingsEditor" timestamp="1587410601410">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="200" y="23" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1587410601410" />
+    <state x="200" y="23" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588190411814" />
     <state x="200" y="23" key="SettingsEditor/0.23.1680.944@0.23.1680.944" timestamp="1583422091451" />
-    <state x="471" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1586269818544">
+    <state x="471" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1588616453141">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="471" y="319" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586269818544" />
+    <state x="471" y="319" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588616453141" />
+    <state x="471" y="309" key="com.intellij.ide.util.TipDialog/0.23.1680.940@0.23.1680.940" timestamp="1588563353872" />
     <state x="471" y="310" key="com.intellij.ide.util.TipDialog/0.23.1680.944@0.23.1680.944" timestamp="1585163026334" />
     <state x="471" y="312" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1585230779693" />
-    <state x="70" y="63" key="new project wizard" timestamp="1587669675938">
+    <state x="613" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588260886878">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="70" y="63" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1587669675938" />
+    <state x="613" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1588260886878" />
+    <state x="70" y="63" key="new project wizard" timestamp="1588185481986">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="70" y="63" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1588185481986" />
     <state x="421" y="244" key="run.anything.popup" timestamp="1587406906507">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="421" y="244" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587406906507" />
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1587657391490">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="421" y="39" width="838" height="928" key="search.everywhere.popup" timestamp="1588645636105">
+      <screen x="0" y="23" width="1680" height="944" />
     </state>
     <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587657391490" />
     <state x="421" y="39" width="838" height="924" key="search.everywhere.popup/0.23.1680.940@0.23.1680.940" timestamp="1586441427296" />
+    <state x="421" y="39" width="838" height="928" key="search.everywhere.popup/0.23.1680.944@0.23.1680.944" timestamp="1588645636105" />
   </component>
 </project>

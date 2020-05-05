@@ -1,29 +1,40 @@
 package MyPractice;
-import java.util.Scanner;
 import java.util.Arrays;
+import java.util.ArrayList;
 public class test {
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-
-        String sentence = input.nextLine();
-
-        //TODO: Type your code below
-
-        String [] arr = sentence.split(" ");
-        String [] rev = new String[arr.length];
-        // System.out.println(Arrays.toString(arr));
-        int j=0;
-        for (int i = arr.length-1; i<=0; i--){
-            rev[j]=arr[i];
-            j++;
+    public static String search(ArrayList<String> r, String find) {
+        String result ="";
+        for (int i=0; i<r.size(); i++){
+            if (r.get(i).contains(find)){
+                result = r.get(i);
+            } else {
+                result = "search failed";
+            }
+            System.out.println(r.get(i).contains(find));
         }
 
-        System.out.println(Arrays.toString(rev));
+        return result;
+
+    }//end wineSeller
+
+    public static void main(String[] args)
+    {
+
+        ArrayList<String>  arr = new ArrayList<String>();
+        arr.add("2");
+        arr.add("6");
+        arr.add("foo bar");
+        arr.add("abc");
 
 
+        String find_tst = search(arr,"foo");
+        System.out.print(find_tst);//foo bar
 
-        }
-    }
+
+    }//end main
+
+}
+
 
 
 
