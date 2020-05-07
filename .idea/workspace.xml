@@ -2,25 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPractice2/AddSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/CarpetObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/DogObjects2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice2/Offer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice2/Offer_Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/BankOfAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/ObjectMemory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Student_Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day34_CustomClass/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/StaticVariable2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day35_Static/Static_Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/MyPractice/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/MyPractice/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArraysList/List_Practice3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day29_Wrapper_ArraysList/List_Practice3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/FisBus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/FisBus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/IndexFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/IndexFind.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/InterviewQuestion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/InterviewQuestion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/PalindromePr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/PalindromePr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/RemoveEvenLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/RemoveEvenLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/SwitchString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/SwitchString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MyPractice/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyPractice/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Resources/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Resources/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29_Wrapper_ArraysList/List_Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day30_ArrayList/Arrays_Methods2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day30_ArrayList/Arrays_Methods2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,9 +52,22 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DogObjects2">
-    <configuration name="AddSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractice2.AddSpaces" />
+  <component name="RunManager" selected="Application.StaticMethod">
+    <configuration name="ObjectMemory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.ObjectMemory" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Offer_Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice2.Offer_Objects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -74,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CarpetObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.CarpetObjects" />
+    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.StaticMethod" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day35_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects" />
+    <configuration name="StaticVariable2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.StaticVariable2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
+          <option name="PATTERN" value="day35_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,25 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DogObjects2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day34_CustomClass.DogObjects2" />
+    <configuration name="Static_Variables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day35_Static.Static_Variables" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day34_CustomClass.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Value_Of_Methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29_Wrapper_ArraysList.Value_Of_Methods" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day29_Wrapper_ArraysList.*" />
+          <option name="PATTERN" value="day35_Static.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DogObjects2" />
-        <item itemvalue="Application.DogObjects" />
-        <item itemvalue="Application.CarpetObjects" />
-        <item itemvalue="Application.AddSpaces" />
-        <item itemvalue="Application.Value_Of_Methods" />
+        <item itemvalue="Application.StaticMethod" />
+        <item itemvalue="Application.StaticVariable2" />
+        <item itemvalue="Application.Static_Variables" />
+        <item itemvalue="Application.Offer_Objects" />
+        <item itemvalue="Application.ObjectMemory" />
       </list>
     </recent_temporary>
   </component>
@@ -174,34 +166,34 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1588697876626">
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1588866981370">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876626" />
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588866981370" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1588697876625">
+    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1588866981368">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876625" />
+    <state width="1628" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588866981368" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1588697876624">
+    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1588866981368">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876624" />
+    <state width="1628" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588866981368" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1588697876625">
+    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1588866981369">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588697876625" />
+    <state width="1628" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588866981369" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
