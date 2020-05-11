@@ -1,11 +1,26 @@
 package day36_Static_Block;
 
+import java.util.ArrayList;
+
 public class BankOfAzerbai {
     public static void main(String[] args) {
+        ArrayList <Employee> list = new ArrayList<>();
+
+        list.add(HumanResources.employee1);
+        list.add(HumanResources.employee2);
+
         Employee employee3 = new Employee();
+        employee3.setEmployeeInfo("Ron", 78463, 65936486, "Developer", 160000, 'm');
+        list.add(employee3);
         Employee employee4 = new Employee();
-       HumanResources employee1 = new HumanResources();
-       HumanResources employee2 = new HumanResources();
+        employee4.setEmployeeInfo("Helen", 56824, 246589, "Developer", 165000, 'f');
+        list.add(employee4);
+
+        for (Employee each : list){
+            System.out.println(each);
+            System.out.println("===========================");
+        }
+
 
 
 
