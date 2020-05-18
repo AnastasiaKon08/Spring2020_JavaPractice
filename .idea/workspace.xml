@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/MyPractice2/ConcatArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Resources/AcessModifiers_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/AccessModif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/CheckInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/PersonalInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/CheckInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/Encapsulation_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Resources/timeConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day40_Encapsulation/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/BankOfAmerica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Ebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day41_Inheritance/Fish.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day39_AccessModifiers/CheckInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day39_AccessModifiers/CheckInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day39_AccessModifiers/PersonalInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day39_AccessModifiers/PersonalInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/CheckInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/CheckInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day39_AccessModifiers/PersonalInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day39_AccessModifiers/PersonalInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,13 +58,13 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CheckInfo">
-    <configuration name="CarObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.CarObjects" />
+  <component name="RunManager" selected="Application.Dog">
+    <configuration name="BankOfAmerica" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.BankOfAmerica" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_AccessModifiers.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.CheckInfo" />
+    <configuration name="ConstructorCalls2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day38_Constructors.ConstructorCalls2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_AccessModifiers.*" />
+          <option name="PATTERN" value="day38_Constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConcatArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MyPractice2.ConcatArray" />
+    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Dog" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MyPractice2.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.EmployeeObj" />
+    <configuration name="Encapsulation_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Resources.Encapsulation_Test" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_AccessModifiers.*" />
+          <option name="PATTERN" value="Resources.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day39_AccessModifiers.Test" />
+    <configuration name="Fish" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.Fish" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day39_AccessModifiers.*" />
+          <option name="PATTERN" value="day41_Inheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CheckInfo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ConcatArray" />
-        <item itemvalue="Application.EmployeeObj" />
-        <item itemvalue="Application.CarObjects" />
+        <item itemvalue="Application.Dog" />
+        <item itemvalue="Application.Fish" />
+        <item itemvalue="Application.BankOfAmerica" />
+        <item itemvalue="Application.ConstructorCalls2" />
+        <item itemvalue="Application.Encapsulation_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -158,38 +168,42 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="502" y="121" key="#MyName_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1583508558336" />
+    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1589812138897">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1589812138897" />
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155913497">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1589471321447">
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1589816600838">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589471321447" />
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589816600838" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1589471321446">
+    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1589816600836">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589471321446" />
+    <state width="1628" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589816600836" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1589471321445">
+    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1589816600835">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589471321445" />
+    <state width="1628" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589816600835" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1589471321447">
+    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1589816600837">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589471321447" />
+    <state width="1628" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589816600837" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
