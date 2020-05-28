@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Resources/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Task02/TV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/TestData.java" afterDir="false" />
+    <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="practice">
+      <change afterPath="$PROJECT_DIR$/src/MyPractice/Classroom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice2/ArrList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice2/OnlineStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b15_Inheritance/Language.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b15_Inheritance/Latin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b15_Inheritance/LocalStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b15_Inheritance/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b15_Inheritance/UseLanguage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/Constructor2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day42_Inheritance/SuperKeyword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/CarShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Jeep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/ShapeObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day43_MethodOverriding/Tesla.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day42_Inheritance/Data.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +66,13 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inheritance">
-    <configuration name="BookObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.BookObj" />
+  <component name="RunManager" selected="Application.Classroom">
+    <configuration name="ArrList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice2.ArrList" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="PATTERN" value="MyPractice2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day41_Inheritance.EmployeeObject" />
+    <configuration name="CarShop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_MethodOverriding.CarShop" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day41_Inheritance.*" />
+          <option name="PATTERN" value="day43_MethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Resources.Inheritance" />
+    <configuration name="Classroom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice.Classroom" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Resources.*" />
+          <option name="PATTERN" value="MyPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="School" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.School" />
+    <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day43_MethodOverriding.ShapeObjects" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="day43_MethodOverriding.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day42_Inheritance.TestData" />
+    <configuration name="UseLanguage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b15_Inheritance.UseLanguage" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day42_Inheritance.*" />
+          <option name="PATTERN" value="MyPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inheritance" />
-        <item itemvalue="Application.TestData" />
-        <item itemvalue="Application.School" />
-        <item itemvalue="Application.EmployeeObject" />
-        <item itemvalue="Application.BookObj" />
+        <item itemvalue="Application.Classroom" />
+        <item itemvalue="Application.UseLanguage" />
+        <item itemvalue="Application.CarShop" />
+        <item itemvalue="Application.ShapeObjects" />
+        <item itemvalue="Application.ArrList" />
       </list>
     </recent_temporary>
   </component>
@@ -164,13 +179,22 @@
       <option name="project" value="LOCAL" />
       <updated>1589832984970</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="day 42">
+      <created>1589907533944</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589907533944</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="346" />
     <MESSAGE value="day 41" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 41" />
+    <MESSAGE value="day 42" />
+    <MESSAGE value="practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="109" key="#Inspections" timestamp="1584633345114">
@@ -181,49 +205,57 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="502" y="121" key="#MyName_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1583508558336" />
-    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1589812138897">
+    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1590284486723">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1589812138897" />
+    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590284486723" />
+    <state x="590" y="400" width="499" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589913638487">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="590" y="400" width="499" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1050@0.0.1680.1050" timestamp="1589913638487" />
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587155913497">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1589832984872">
+    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1590026303434">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1589832984872" />
-    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1589907209670">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1590026303434" />
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom" timestamp="1590523385181">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1589907209670" />
+    <state width="838" height="302" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590282663701" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
+    <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1589907209668">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1628" height="302" key="GridCell.Tab.0.center" timestamp="1590523385180">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1589907209668" />
+    <state width="838" height="302" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590282663700" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
+    <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1589907209668">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1628" height="302" key="GridCell.Tab.0.left" timestamp="1590523385180">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1589907209668" />
+    <state width="838" height="302" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590282663699" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
+    <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1589907209669">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1628" height="302" key="GridCell.Tab.0.right" timestamp="1590523385181">
+      <screen x="0" y="23" width="1680" height="949" />
     </state>
-    <state width="1628" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1589907209669" />
+    <state width="838" height="302" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590282663701" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
+    <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585158914028" />
     <state width="1628" height="348" key="GridCell.Tab.1.bottom" timestamp="1588962460467">
       <screen x="0" y="0" width="1680" height="1050" />
@@ -250,11 +282,12 @@
     </state>
     <state x="200" y="23" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588190411814" />
     <state x="200" y="23" key="SettingsEditor/0.23.1680.944@0.23.1680.944" timestamp="1583422091451" />
-    <state x="471" y="319" key="com.intellij.ide.util.TipDialog" timestamp="1588616453141">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state x="471" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1590674520987">
+      <screen x="0" y="23" width="1680" height="941" />
     </state>
-    <state x="471" y="319" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1588616453141" />
+    <state x="471" y="311" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590260818218" />
     <state x="471" y="309" key="com.intellij.ide.util.TipDialog/0.23.1680.940@0.23.1680.940" timestamp="1588563353872" />
+    <state x="471" y="302" key="com.intellij.ide.util.TipDialog/0.23.1680.941@0.23.1680.941" timestamp="1590674520987" />
     <state x="471" y="310" key="com.intellij.ide.util.TipDialog/0.23.1680.944@0.23.1680.944" timestamp="1585163026334" />
     <state x="471" y="312" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1585230779693" />
     <state x="613" y="431" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1588260886878">
@@ -269,10 +302,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="421" y="244" key="run.anything.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587406906507" />
-    <state x="421" y="39" width="838" height="928" key="search.everywhere.popup" timestamp="1588645636105">
-      <screen x="0" y="23" width="1680" height="944" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup" timestamp="1590264434795">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587657391490" />
+    <state x="421" y="18" width="838" height="1032" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1590264434795" />
     <state x="421" y="39" width="838" height="924" key="search.everywhere.popup/0.23.1680.940@0.23.1680.940" timestamp="1586441427296" />
     <state x="421" y="39" width="838" height="928" key="search.everywhere.popup/0.23.1680.944@0.23.1680.944" timestamp="1588645636105" />
   </component>
