@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/b15_Exceptions/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/b15_Exceptions/ThrowDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day45_Exceptions/CustomException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/b15_Exceptions/ThrowChecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Credentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Final_Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/Final_Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day46_final_abstract/final_Method.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowKeyword.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day45_Exceptions/ThrowsKeyword3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b15_Exceptions/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/b15_Exceptions/Login.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ThrowDemo">
+  <component name="RunManager" selected="Application.Final_Variable">
     <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day45_Exceptions.CustomException" />
       <module name="Spring2020B17_Java" />
@@ -61,12 +62,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day44_Exceptions.Practice2" />
+    <configuration name="Final_Variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day46_final_abstract.Final_Variable" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day44_Exceptions.*" />
+          <option name="PATTERN" value="day46_final_abstract.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b15_Exceptions.Login" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b15_Exceptions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThrowChecked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="b15_Exceptions.ThrowChecked" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="b15_Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,39 +114,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThrowKeyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowKeyword" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day45_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ThrowsKeyword2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day45_Exceptions.ThrowsKeyword2" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day45_Exceptions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Final_Variable" />
+        <item itemvalue="Application.ThrowChecked" />
+        <item itemvalue="Application.Login" />
         <item itemvalue="Application.ThrowDemo" />
         <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.ThrowKeyword" />
-        <item itemvalue="Application.ThrowsKeyword2" />
-        <item itemvalue="Application.Practice2" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590767232659</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ExceptionKeyword">
+      <created>1590880857585</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590880857585</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -216,10 +224,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="502" y="121" key="#MyName_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1583508558336" />
-    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1590284486723">
+    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1591022565958">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1590284486723" />
+    <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1591022565958" />
     <state x="590" y="400" width="499" height="262" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589913638487">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -228,41 +236,41 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1590767232543">
+    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1590880857469">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1590767232543" />
-    <state width="778" height="352" key="GridCell.Tab.0.bottom" timestamp="1590878495903">
+    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1590880857469" />
+    <state width="1628" height="352" key="GridCell.Tab.0.bottom" timestamp="1591021083700">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="778" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1590878495903" />
+    <state width="1628" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1591021083700" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="778" height="352" key="GridCell.Tab.0.center" timestamp="1590878495902">
+    <state width="1628" height="352" key="GridCell.Tab.0.center" timestamp="1591021083699">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="778" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1590878495902" />
+    <state width="1628" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1591021083699" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="778" height="352" key="GridCell.Tab.0.left" timestamp="1590878495901">
+    <state width="1628" height="352" key="GridCell.Tab.0.left" timestamp="1591021083698">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="778" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1590878495901" />
+    <state width="1628" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1591021083698" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="778" height="352" key="GridCell.Tab.0.right" timestamp="1590878495903">
+    <state width="1628" height="352" key="GridCell.Tab.0.right" timestamp="1591021083700">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="778" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1590878495903" />
+    <state width="1628" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1591021083700" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />

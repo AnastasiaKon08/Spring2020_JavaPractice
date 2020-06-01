@@ -16,11 +16,10 @@ public class Login {
         String password = sc.next();
 
         if (!userID.equals(USERID)){
-            throw new RuntimeException("User Id not found  " + userID);
+            throw new RuntimeException("User Id not found:  " + userID);
         }
 
-
-        if (password.equals(PASSWORD)){
+        if (!password.equals(PASSWORD)){
             throw new RuntimeException("Invalid password " + password);
         }
 
