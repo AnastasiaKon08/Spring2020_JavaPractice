@@ -6,9 +6,17 @@ public class final_Method {
 
     }
 
-    public void method1(int a){
+    public final int method1(int a){
+        return 100;
+    }
+
+
+    public final static void main(String[] args) {
 
     }
 
+    public final_Method(){
+
+    }
 
 }
