@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/Abstract_VS_NonAbstarct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/FirefoxDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day47_Abstraction/OperaBrowser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/Interface_Intro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/Iphone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/PhoneObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/Samsung.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day47_Abstraction/ChromeDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day47_Abstraction/ChromeDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day47_Abstraction/DriverObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day47_Abstraction/DriverObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day47_Abstraction/RemoteWebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day47_Abstraction/RemoteWebDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day48_AbstractInterface/Interface_Intro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day48_AbstractInterface/Interface_Intro.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -217,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591284355558</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Interface">
+      <created>1591630805601</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1591630805601</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -227,7 +225,8 @@
     <MESSAGE value="practice" />
     <MESSAGE value="Exceptions" />
     <MESSAGE value="ExceptionKeyword" />
-    <option name="LAST_COMMIT_MESSAGE" value="ExceptionKeyword" />
+    <MESSAGE value="Interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interface" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="109" key="#Inspections" timestamp="1584633345114">
@@ -250,10 +249,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1591284355399">
+    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1591630805478">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591284355399" />
+    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1591630805478" />
     <state width="1628" height="352" key="GridCell.Tab.0.bottom" timestamp="1591627490492">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
