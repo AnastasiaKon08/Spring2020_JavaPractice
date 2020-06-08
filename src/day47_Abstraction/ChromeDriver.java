@@ -7,4 +7,10 @@ public class ChromeDriver extends RemoteWebDriver{
         System.out.println("Opening " + URL + " in Chrome Browser");
     }
 
+    @Override
+    public void quit(){
+        System.out.println("Quitting Firefox browser");
+    }
+
+
 }
