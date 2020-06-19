@@ -1,4 +1,4 @@
-package day49_Polimorphism_Inro;
+package day49_Polymorphism_Inro;
 
 
 interface downloadable{
@@ -14,10 +14,10 @@ interface AppleApps extends downloadable{
     String AppStoreName = "Apple"; // 2 var, 1 abstract method
 }
 public abstract class Phone {
-    static String brand;
-    String model;
-    double price;
-    String size;
+    public static String brand;
+    public String model;
+    public double price;
+    public  String size;
 
   public abstract void texting(long phoneNumber); // abstract keyword should be given in abstract class
 
