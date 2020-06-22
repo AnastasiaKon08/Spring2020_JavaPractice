@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism_Continue/Abstraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism_Continue/Encapsulation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism_Continue/Inheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day50_Polymorphism_Continue/ReferenceTypeCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day51_Recap/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day51_Recap/ShapeObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/anastasia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/anastasia.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Collection_Utility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Lists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Q.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Sets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/null_Keyword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +49,13 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeObjects">
-    <configuration name="AnimalObj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day50_Polymorphism_Continue.AnimalObj" />
+  <component name="RunManager" selected="Application.Collection_Utility">
+    <configuration name="Collection_Utility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Collection_Utility" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day50_Polymorphism_Continue.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +63,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReferenceTypeCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day50_Polymorphism_Continue.ReferenceTypeCasting" />
+    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Lists" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day50_Polymorphism_Continue.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScrumTeam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day49_Polymorphism_Inro.ScrumTeam" />
+    <configuration name="Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Q" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day49_Polymorphism_Inro.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day51_Recap.ShapeObjects" />
+    <configuration name="Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Sets" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day51_Recap.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day50_Polymorphism_Continue.Test" />
+    <configuration name="null_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.null_Keyword" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day50_Polymorphism_Continue.*" />
+          <option name="PATTERN" value="day52_Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ShapeObjects" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ReferenceTypeCasting" />
-        <item itemvalue="Application.AnimalObj" />
-        <item itemvalue="Application.ScrumTeam" />
+        <item itemvalue="Application.Collection_Utility" />
+        <item itemvalue="Application.null_Keyword" />
+        <item itemvalue="Application.Sets" />
+        <item itemvalue="Application.Q" />
+        <item itemvalue="Application.Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -282,10 +280,6 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="340" y="109" key="#Inspections/0.0.1680.1050@0.0.1680.1050" timestamp="1584633345114" />
-    <state x="502" y="121" key="#MyName_(1)" timestamp="1583508558336">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="502" y="121" key="#MyName_(1)/0.0.1680.1050@0.0.1680.1050" timestamp="1583508558336" />
     <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1591626282159">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -302,67 +296,66 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1592612061191" />
-    <state width="786" height="352" key="GridCell.Tab.0.bottom" timestamp="1592679236632">
+    <state width="1628" height="352" key="GridCell.Tab.0.bottom" timestamp="1592852248854">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="786" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592679236632" />
+    <state width="1628" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248854" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="786" height="352" key="GridCell.Tab.0.center" timestamp="1592679236631">
+    <state width="1628" height="352" key="GridCell.Tab.0.center" timestamp="1592852248852">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="786" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592679236631" />
+    <state width="1628" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248852" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="786" height="352" key="GridCell.Tab.0.left" timestamp="1592679236630">
+    <state width="1628" height="352" key="GridCell.Tab.0.left" timestamp="1592852248852">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="786" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592679236630" />
+    <state width="1628" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248852" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="786" height="352" key="GridCell.Tab.0.right" timestamp="1592679236632">
+    <state width="1628" height="352" key="GridCell.Tab.0.right" timestamp="1592852248853">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="786" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592679236632" />
+    <state width="1628" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248853" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585158914028" />
-    <state width="1628" height="348" key="GridCell.Tab.1.bottom" timestamp="1588962460467">
+    <state width="1628" height="348" key="GridCell.Tab.1.bottom" timestamp="1592843862170">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1588962460467" />
+    <state width="1628" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862170" />
     <state width="1628" height="297" key="GridCell.Tab.1.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588646681149" />
-    <state width="1628" height="348" key="GridCell.Tab.1.center" timestamp="1588962460459">
+    <state width="1628" height="348" key="GridCell.Tab.1.center" timestamp="1592843862169">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1588962460459" />
+    <state width="1628" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862169" />
     <state width="1628" height="297" key="GridCell.Tab.1.center/0.23.1680.944@0.23.1680.944" timestamp="1588646681148" />
-    <state width="1628" height="348" key="GridCell.Tab.1.left" timestamp="1588962460459">
+    <state width="1628" height="348" key="GridCell.Tab.1.left" timestamp="1592843862168">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1588962460459" />
+    <state width="1628" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862168" />
     <state width="1628" height="297" key="GridCell.Tab.1.left/0.23.1680.944@0.23.1680.944" timestamp="1588646681148" />
-    <state width="1628" height="348" key="GridCell.Tab.1.right" timestamp="1588962460466">
+    <state width="1628" height="348" key="GridCell.Tab.1.right" timestamp="1592843862169">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1588962460466" />
+    <state width="1628" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862169" />
     <state width="1628" height="297" key="GridCell.Tab.1.right/0.23.1680.944@0.23.1680.944" timestamp="1588646681149" />
     <state x="200" y="23" key="SettingsEditor" timestamp="1588190411814">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="200" y="23" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588190411814" />
-    <state x="200" y="23" key="SettingsEditor/0.23.1680.944@0.23.1680.944" timestamp="1583422091451" />
     <state x="471" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1590674520987">
       <screen x="0" y="23" width="1680" height="941" />
     </state>
