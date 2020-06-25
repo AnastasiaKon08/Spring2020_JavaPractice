@@ -17,9 +17,18 @@ public class Collection_Utility {
 
         ArrayList<Integer> nums = new ArrayList<>();
         nums.addAll(Arrays.asList(5, 4,5 ,5 ,5 ,7, 8,9, 9,0, 4, 4, 5, 1, 2, 3, 2));
+        nums = new ArrayList<>( new TreeSet<>(nums));
+        System.out.println(nums);
 
-        TreeSet<Integer> sorted = new TreeSet<>();
+        nums = new ArrayList<>(new TreeSet<>(nums));
 
+        System.out.println(nums);
+
+        System.out.println("====================================");
+
+        ArrayList<Integer> list = new ArrayList<>(Arrays.asList(4, 10, 698, 657, 432, 4, 12 , 698, 7, 12 ));
+        list = new ArrayList<>(new LinkedHashSet<>(list));
+        System.out.println(list);
 
 
 

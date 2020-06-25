@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Collection_Utility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Lists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Q.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day52_Collections/null_Keyword.java" afterDir="false" />
+    <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="Collections2">
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day52_Collections/Practice2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Iterating_Collection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Iterating_Collections2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Warm_Up.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day52_Collections/Collection_Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day52_Collections/Collection_Utility.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +50,35 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Collection_Utility">
-    <configuration name="Collection_Utility" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.Collection_Utility" />
+  <component name="RunManager" selected="Application.Iterating_Collections2">
+    <configuration name="Iterating_Collection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53_Iterator_Maps.Iterating_Collection" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day53_Iterator_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Iterating_Collections2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53_Iterator_Maps.Iterating_Collections2" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day53_Iterator_Maps.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Practice" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.Lists" />
+    <configuration name="Practice2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day52_Collections.Practice2" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
@@ -76,38 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.Q" />
+    <configuration name="Warm_Up" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day53_Iterator_Maps.Warm_Up" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day52_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Sets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.Sets" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day52_Collections.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="null_Keyword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day52_Collections.null_Keyword" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day52_Collections.*" />
+          <option name="PATTERN" value="day53_Iterator_Maps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Collection_Utility" />
-        <item itemvalue="Application.null_Keyword" />
-        <item itemvalue="Application.Sets" />
-        <item itemvalue="Application.Q" />
-        <item itemvalue="Application.Lists" />
+        <item itemvalue="Application.Iterating_Collections2" />
+        <item itemvalue="Application.Iterating_Collection" />
+        <item itemvalue="Application.Warm_Up" />
+        <item itemvalue="Application.Practice2" />
+        <item itemvalue="Application.Practice" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592612061305</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Collections">
+      <created>1592854110995</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1592854110995</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -273,7 +281,9 @@
     <MESSAGE value="Interface" />
     <MESSAGE value="Interface2" />
     <MESSAGE value="Polymorphism" />
-    <option name="LAST_COMMIT_MESSAGE" value="Polymorphism" />
+    <MESSAGE value="Collections" />
+    <MESSAGE value="Collections2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Collections2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="340" y="109" key="#Inspections" timestamp="1584633345114">
@@ -292,74 +302,74 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1592612061191">
+    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1593103452489">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1592612061191" />
-    <state width="1628" height="352" key="GridCell.Tab.0.bottom" timestamp="1592852248854">
+    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1593103452489" />
+    <state width="786" height="352" key="GridCell.Tab.0.bottom" timestamp="1593103440831">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248854" />
+    <state width="786" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593103440831" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
     <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="352" key="GridCell.Tab.0.center" timestamp="1592852248852">
+    <state width="786" height="352" key="GridCell.Tab.0.center" timestamp="1593103440830">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248852" />
+    <state width="786" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593103440830" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="352" key="GridCell.Tab.0.left" timestamp="1592852248852">
+    <state width="786" height="352" key="GridCell.Tab.0.left" timestamp="1593103440829">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248852" />
+    <state width="786" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593103440829" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
     <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="352" key="GridCell.Tab.0.right" timestamp="1592852248853">
+    <state width="786" height="352" key="GridCell.Tab.0.right" timestamp="1593103440831">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592852248853" />
+    <state width="786" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593103440831" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
     <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585158914028" />
-    <state width="1628" height="348" key="GridCell.Tab.1.bottom" timestamp="1592843862170">
+    <state width="1628" height="348" key="GridCell.Tab.1.bottom" timestamp="1592870589168">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862170" />
+    <state width="1628" height="348" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1592870589168" />
     <state width="1628" height="297" key="GridCell.Tab.1.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588646681149" />
-    <state width="1628" height="348" key="GridCell.Tab.1.center" timestamp="1592843862169">
+    <state width="1628" height="348" key="GridCell.Tab.1.center" timestamp="1592870589167">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862169" />
+    <state width="1628" height="348" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1592870589167" />
     <state width="1628" height="297" key="GridCell.Tab.1.center/0.23.1680.944@0.23.1680.944" timestamp="1588646681148" />
-    <state width="1628" height="348" key="GridCell.Tab.1.left" timestamp="1592843862168">
+    <state width="1628" height="348" key="GridCell.Tab.1.left" timestamp="1592870589166">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862168" />
+    <state width="1628" height="348" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1592870589166" />
     <state width="1628" height="297" key="GridCell.Tab.1.left/0.23.1680.944@0.23.1680.944" timestamp="1588646681148" />
-    <state width="1628" height="348" key="GridCell.Tab.1.right" timestamp="1592843862169">
+    <state width="1628" height="348" key="GridCell.Tab.1.right" timestamp="1592870589167">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592843862169" />
+    <state width="1628" height="348" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1592870589167" />
     <state width="1628" height="297" key="GridCell.Tab.1.right/0.23.1680.944@0.23.1680.944" timestamp="1588646681149" />
     <state x="200" y="23" key="SettingsEditor" timestamp="1588190411814">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="200" y="23" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1588190411814" />
-    <state x="471" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1590674520987">
-      <screen x="0" y="23" width="1680" height="941" />
+    <state x="471" y="311" key="com.intellij.ide.util.TipDialog" timestamp="1593093626216">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="471" y="311" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1590260818218" />
+    <state x="471" y="311" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593093626216" />
     <state x="471" y="309" key="com.intellij.ide.util.TipDialog/0.23.1680.940@0.23.1680.940" timestamp="1588563353872" />
     <state x="471" y="302" key="com.intellij.ide.util.TipDialog/0.23.1680.941@0.23.1680.941" timestamp="1590674520987" />
     <state x="471" y="310" key="com.intellij.ide.util.TipDialog/0.23.1680.944@0.23.1680.944" timestamp="1585163026334" />
