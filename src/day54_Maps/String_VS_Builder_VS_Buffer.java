@@ -16,5 +16,16 @@ public class String_VS_Builder_VS_Buffer {
         buffer.append(" school");
         System.out.println(buffer);
 
+        System.out.println("=============================");
+
+
+        String word = "ABCD";
+        StringBuilder sb = new StringBuilder(word);
+        sb.reverse();
+
+        System.out.println(sb);
+
+
+
     }
 }

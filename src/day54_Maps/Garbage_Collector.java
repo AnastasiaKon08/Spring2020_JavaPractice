@@ -1,6 +1,7 @@
 package day54_Maps;
 
 public class Garbage_Collector {
+
     public static void main(String[] args) {
        Garbage_Collector obj =  new Garbage_Collector(); // will not be collected by Garbage Collector
 
@@ -21,6 +22,9 @@ public class Garbage_Collector {
         n = null;
 
         System.out.println(n);
+
+
+
 
 
 
