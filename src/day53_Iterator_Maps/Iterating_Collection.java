@@ -30,6 +30,7 @@ public class Iterating_Collection {
             }
         }
 
+
         System.out.println(list3);
 
         System.out.println("==========================");
