@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39d510b6-edc5-40e0-9f3a-286261016c8e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day54_Maps/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice2/Alternate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyPractice3/RemoveRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day53_Iterator_Maps/Iterating_Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day53_Iterator_Maps/Iterating_Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day54_Maps/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day54_Maps/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day53_Iterator_Maps/Iterating_Collection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Spring2020B17_Java/day53_Iterator_Maps/Iterating_Collection.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -48,7 +48,20 @@
       <recent name="Resourses" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.RemoveRange">
+    <configuration name="Alternate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice2.Alternate" />
+      <module name="Spring2020B17_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MyPractice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Garbage_Collector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day54_Maps.Garbage_Collector" />
       <module name="Spring2020B17_Java" />
@@ -62,25 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map_SetEntries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_SetEntries" />
+    <configuration name="RemoveRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyPractice3.RemoveRange" />
       <module name="Spring2020B17_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day54_Maps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Map_SetEntry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day54_Maps.Map_SetEntry" />
-      <module name="Spring2020B17_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day54_Maps.*" />
+          <option name="PATTERN" value="MyPractice3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RemoveRange" />
+        <item itemvalue="Application.Alternate" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.String_VS_Builder_VS_Buffer" />
         <item itemvalue="Application.Garbage_Collector" />
-        <item itemvalue="Application.Map_SetEntry" />
-        <item itemvalue="Application.Map_SetEntries" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593458900275</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="JavaLastOne">
+      <created>1593483882424</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1593483882424</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,7 +311,8 @@
     <MESSAGE value="Collections2" />
     <MESSAGE value="Iterator" />
     <MESSAGE value="StringBuilder" />
-    <option name="LAST_COMMIT_MESSAGE" value="StringBuilder" />
+    <MESSAGE value="JavaLastOne" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaLastOne" />
   </component>
   <component name="WindowStateProjectService">
     <state x="609" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1591626282159">
@@ -319,44 +327,40 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="515" y="223" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587155913497" />
-    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1593458900180">
+    <state x="409" y="63" key="CommitChangelistDialog2" timestamp="1593483882285">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1593458900180" />
-    <state width="1628" height="352" key="GridCell.Tab.0.bottom" timestamp="1593459683485">
+    <state x="409" y="63" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1593483882285" />
+    <state width="1628" height="352" key="GridCell.Tab.0.bottom" timestamp="1593638488984">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593459683485" />
+    <state width="1628" height="352" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593638488984" />
     <state width="1628" height="354" key="GridCell.Tab.0.bottom/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.944@0.23.1680.944" timestamp="1588647293680" />
-    <state width="1628" height="351" key="GridCell.Tab.0.bottom/0.23.1680.947@0.23.1680.947" timestamp="1584890867604" />
     <state width="1628" height="302" key="GridCell.Tab.0.bottom/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1585158914029" />
-    <state width="1628" height="352" key="GridCell.Tab.0.center" timestamp="1593459683484">
+    <state width="1628" height="352" key="GridCell.Tab.0.center" timestamp="1593638488983">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593459683484" />
+    <state width="1628" height="352" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593638488983" />
     <state width="1628" height="354" key="GridCell.Tab.0.center/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
-    <state width="1628" height="351" key="GridCell.Tab.0.center/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.center/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1585158914026" />
-    <state width="1628" height="352" key="GridCell.Tab.0.left" timestamp="1593459683483">
+    <state width="1628" height="352" key="GridCell.Tab.0.left" timestamp="1593638488983">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593459683483" />
+    <state width="1628" height="352" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593638488983" />
     <state width="1628" height="354" key="GridCell.Tab.0.left/0.23.1680.940@0.23.1680.940" timestamp="1586442183899" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.944@0.23.1680.944" timestamp="1588647293678" />
-    <state width="1628" height="351" key="GridCell.Tab.0.left/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.left/0.23.1680.949@0.23.1680.949" timestamp="1590523385180" />
     <state width="1628" height="410" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1585158914025" />
-    <state width="1628" height="352" key="GridCell.Tab.0.right" timestamp="1593459683485">
+    <state width="1628" height="352" key="GridCell.Tab.0.right" timestamp="1593638488984">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state width="1628" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593459683485" />
+    <state width="1628" height="352" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593638488984" />
     <state width="1628" height="354" key="GridCell.Tab.0.right/0.23.1680.940@0.23.1680.940" timestamp="1586442183900" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.944@0.23.1680.944" timestamp="1588647293679" />
-    <state width="1628" height="351" key="GridCell.Tab.0.right/0.23.1680.947@0.23.1680.947" timestamp="1584890867603" />
     <state width="1628" height="302" key="GridCell.Tab.0.right/0.23.1680.949@0.23.1680.949" timestamp="1590523385181" />
     <state width="1628" height="410" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1585158914028" />
     <state width="1628" height="348" key="GridCell.Tab.1.bottom" timestamp="1592870589168">
