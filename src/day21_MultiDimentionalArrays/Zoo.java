@@ -1,6 +1,6 @@
 package day21_MultiDimentionalArrays;
 
-public class Zoo {
+public class    Zoo {
     public static void main(String[] args) {
         String[] wildAnimals = {"tiger", "bear", "monkey"};
         String[] birds = {"eagle", "dove", "duck", "chicken"};

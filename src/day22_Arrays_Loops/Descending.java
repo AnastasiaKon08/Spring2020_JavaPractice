@@ -1,7 +1,7 @@
 package day22_Arrays_Loops;
 import java.util.Arrays;
 
-public class Discending {
+public class Descending {
     public static void main(String[] args) {
 
         int[] arr = {8574, 9463, 5, 52, 7685, 32, 54, 9};

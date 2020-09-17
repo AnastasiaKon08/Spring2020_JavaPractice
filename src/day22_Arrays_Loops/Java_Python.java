@@ -1,6 +1,5 @@
 package day22_Arrays_Loops;
 
-import jdk.swing.interop.SwingInterOpUtils;
 
 public class Java_Python {
     public static void main(String[] args) {
